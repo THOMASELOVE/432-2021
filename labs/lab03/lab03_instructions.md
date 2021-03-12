@@ -1,7 +1,7 @@
 432 Lab 03 for Spring 2021
 ================
 
-Version: 2021-03-05 14:16:17
+Version: 2021-03-12 12:01:03
 
 # General Instructions
 
@@ -244,7 +244,7 @@ difference between the models in terms of performance on these metrics?
 
 Finally, make predictions into the test sample using the two fits and
 the same three performance measures discussed in Question 2i. Now, which
-model appears to perform better within the training sample? Is there a
+model appears to perform better within the test sample? Is there a
 substantial difference between the models in terms of performance on
 these metrics?
 
