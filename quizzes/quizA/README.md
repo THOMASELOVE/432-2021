@@ -1,30 +1,33 @@
 Instructions for 432 Quiz A
 ================
 Thomas E. Love
-Version: 2021-03-10
+Last Update: 2021-03-11
 
 # Links
 
-This page will be replaced with a page of links to key materials
-(including these instructions) on the morning of 2021-03-12.
+Here are the links for the Quiz.
 
-Those links will include:
-
--   Quiz A: The Main Document
-    -   This will include complete instructions and the 26 questions you
-        will be answering (pdf)
--   The Google Form Answer Sheet
-    -   This is where you will put your answers to the 26 Quiz questions
+-   Quiz A: [The Main Document](https://github.com/THOMASELOVE/432-2021/blob/master/quizzes/quizA/432_quizA_2021.pdf) (pdf)
+    -   Complete instructions and the 26 questions you will be answering. The PDF is 25 pages long.
+-   The Google Form Answer Sheet is at http://bit.ly/432-quizA-2021-answer-sheet.
+    -   This is where you will put all of your answers to the 26 Quiz questions. Like a Minute Paper, you need to log into Google via CWRU to see and use the form.
 -   The [Three Data
     Sets](https://github.com/THOMASELOVE/432-2021/tree/master/quizzes/quizA/data)
     ([`set01.csv`](https://raw.githubusercontent.com/THOMASELOVE/432-2021/master/quizzes/quizA/data/set01.csv),
     [`set13.csv`](https://raw.githubusercontent.com/THOMASELOVE/432-2021/master/quizzes/quizA/data/set13.csv)
     and
     [`set20.csv`](https://raw.githubusercontent.com/THOMASELOVE/432-2021/master/quizzes/quizA/data/set20.csv)),
-    which are actually available now.
+    which are available now.
+- If Dr. Love makes any changes to any of these materials before the final deadline, he will announce them via [Piazza](https://thomaselove.github.io/432/contact.html).
+- Reminder: if you have questions about the Quiz, please ask them via a **Private post on Piazza** to the instructors.
 
-Please read the instructions which follow. They will also appear as part
-of the Main Document for Quiz A, when that becomes available.
+The Quiz is due at 9 PM Monday 2021-03-22, as indicated on [the Course Calendar](https://thomaselove.github.io/432/calendar.html).
+
+**Good luck!**
+
+Note that the instructions below also appear in [the Main Document](https://github.com/THOMASELOVE/432-2021/blob/master/quizzes/quizA/432_quizA_2021.pdf) for Quiz A.
+
+-------
 
 # Instructions
 
